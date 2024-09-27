@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/Auth_microservice/src/main/resources/db/migration/V2__insert-into-roles.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Auth_microservice/src/main/resources/db/migration/V3__insert-into-users.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Checker_microservice/src/main/resources/db/migration/V2__insert-into-roles.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Checker_microservice/src/main/resources/db/migration/V3__insert-into-endpoints.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/Checker_microservice/src/main/resources/db/migration/V4__insert-into-emails.sql" dialect="PostgreSQL" />
+  </component>
+</project>
